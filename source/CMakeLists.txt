@@ -1,1 +1,2 @@
 ADD_SUBDIRECTORY(clang_ast_dump)
+ADD_SUBDIRECTORY(clang_ast_generate)
