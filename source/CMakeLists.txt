@@ -1,5 +1,6 @@
 ADD_SUBDIRECTORY(clang_ast_dump)
 ADD_SUBDIRECTORY(clang_ast_generate)
+ADD_SUBDIRECTORY(clang_ast_merge)
 ADD_SUBDIRECTORY(clang_ast_basic_traverse)
 ADD_SUBDIRECTORY(clang_ast_visitor)
 ADD_SUBDIRECTORY(clang_ast_cfg)
